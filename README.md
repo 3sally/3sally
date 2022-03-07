@@ -3,7 +3,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=3sally&show_icons=true&theme=dracula&hide="/>
  
   ### 👩🏻‍💻 Min Jung 👩🏻‍💻
- 
+<!--  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=3sally)](https://solved.ac/3sally) -->
   <a href="https://solved.ac/3sally"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=3sally"/></a>
  ---
 
