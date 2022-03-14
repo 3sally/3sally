@@ -3,12 +3,12 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=3sally&show_icons=true&theme=dracula&hide="/>
  
   ### 👩🏻‍💻 Min Jung 👩🏻‍💻
-<!--  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=3sally)](https://solved.ac/3sally) -->
-  <a href="https://solved.ac/3sally"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=3sally"/></a>
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=3sally)](https://solved.ac/3sally)
+<!--   <a href="https://solved.ac/3sally"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=3sally"/></a> -->
  ---
-
- <a href="https://amused-viper-137.notion.site/About-MinJung-be0a2f1f0df14bdbaf4bb7a3d5fcb3e9"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a> 👈 포트폴리오 
+<!-- 
+ <a href="https://amused-viper-137.notion.site/About-MinJung-be0a2f1f0df14bdbaf4bb7a3d5fcb3e9"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a> 👈 포트폴리오  -->
  
  
  <br>
