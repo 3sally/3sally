@@ -24,8 +24,13 @@
 <div align="left">
  
 ### Once I've used...✏️
+  
+  Java / SpringBoot / MyBatis / JPA.QueryDSL / Servlet.JSP <br>
+  Vue / Vuex / Bootstrap / HTML5 / CSS / JavaScript / jQuery <br>
+  AWS EC2 / Jenkins <br>
+  Notion / Jira / Git / Mattermost <br>
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
@@ -33,4 +38,4 @@
 <br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> -->
