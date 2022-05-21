@@ -28,12 +28,27 @@
 
 ### 👉 Frontend
 <p align="left"> 
- 내용 추가 예정
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+ &emsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+ &emsp;
+ Vue / Vuex / Bootstrap 
 </p>
 
 ### 👉 Backend
 <p align="left"> 
- 내용 추가 예정
+ &emsp;
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" />
+ &emsp;
+ <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/>
+ &emsp;
+<img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white"/>
+ &emsp;
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
+ &emsp;
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" />
+ &emsp;
+ MyBatis / JPA.QueryDSL / Servlet.JSP / JavaScript / jQuery
 </p>
 
 ### 👉 Databases 
@@ -51,6 +66,8 @@
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  &emsp; 
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   &emsp;  
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
@@ -63,16 +80,14 @@
     &emsp; 
     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
     &emsp;
+ <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white" />
+ &emsp;
+<img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white"/>
+ &emsp;
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+ &emsp;
 </p>
 
- 
-### Once I've used...✏️
-
-  Java / SpringBoot / MyBatis / JPA.QueryDSL / Servlet.JSP <br>
-Vue / Vuex / Bootstrap / HTML5 / CSS / JavaScript / jQuery <br>
-AWS EC2 / Jenkins <br>
-Notion / Jira / Git / Mattermost <br>
-  
   
 ---
 <div align="center">
