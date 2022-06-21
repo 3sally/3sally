@@ -1,4 +1,5 @@
 <div align="center">
+ 
  <img src='https://ifh.cc/g/xQHKQB.jpg' border='0'></a>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=D79921&multiline=true&height=100&lines=Hi+!+I'm+Min+Jung+%F0%9F%99%8C+++;I'm+a+Backend+Developer!!+👩🏻‍💻++)](https://git.io/typing-svg)
