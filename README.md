@@ -1,12 +1,9 @@
 <div align="center"> 
- <img src='https://ifh.cc/g/xQHKQB.jpg' border='0'></a>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=D79921&multiline=true&height=100&lines=Hi+!+I'm+Min+Jung+%F0%9F%99%8C+++;I'm+a+Backend+Developer!!+👩🏻‍💻++)](https://git.io/typing-svg)
-
   <!--  백준 티어 큰 버전  -->
   <!--  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=3sally)](https://solved.ac/3sally) -->
   <!--  백준 티어 작은 버전  -->
   <a href="https://solved.ac/3sally"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=3sally"/></a>
+ 
  ---
  </div>
  
